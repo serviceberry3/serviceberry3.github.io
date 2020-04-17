@@ -1,0 +1,50 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Static Template</title>
+    <!--nowidth means elements take up as much space as they need-->
+    <style>
+      .noah {
+        color: red;
+        background-color: green;
+        border: 1px solid brown;
+        padding: 50px;
+        margin: 30px;
+        display: inline;
+      }
+
+      .container {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        width: 100%;
+      }
+
+      .light {
+        width: 10px;
+        height: 10px;
+        background-color: red;
+        border-radius: 1000px;
+      }
+    </style>
+  </head>
+  <body>
+    <!--parent-->
+    <div style="container">
+      <!--style="display: flex; flex-direction: row; justify-content:space-between; border: 1px solid brown; height: 200px; align-items: center;"-->
+      <!--flex containter-->
+      <!--children-->
+      <h1 class="noah">Header</h1>
+      <h1 class="noah">Header 2</h1>
+      <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium
+        officia ut laborum eos explicabo eaque, ab in, delectus laboriosam
+        repudiandae odio maxime aut iusto. Sapiente odit delectus velit
+        veritatis quasi!
+      </p>
+    </div>
+  </body>
+</html>
