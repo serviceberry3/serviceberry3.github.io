@@ -4,44 +4,51 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+
+    <!--my own CSS rules, in location css/home.css-->
+    <link rel="stylesheet" href="css/home.css">
+
+    <!--import tailwind CSS (like bootstrap)-->
+    <link
+      href="https://unpkg.com/tailwindcss@^2/dist/tailwind.min.css"
+      rel="stylesheet"
+    />
+
+    
     <title>Static Template</title>
     <!--nowidth means elements take up as much space as they need-->
     <style>
-      .noah {
-        color: red;
-        background-color: green;
-        border: 1px solid brown;
-        padding: 50px;
-        margin: 30px;
-        display: inline;
-      }
-
-      .container {
-        display: flex;
-        justify-content: space-between;
-        align-items: center;
-        width: 100%;
-      }
-
-      .light {
-        width: 10px;
-        height: 10px;
-        background-color: red;
-        border-radius: 1000px;
-      }
+      
     </style>
   </head>
   <body>
     <!--parent-->
-    <div style="container">
+    <div class="container">
       <!--style="display: flex; flex-direction: row; justify-content:space-between; border: 1px solid brown; height: 200px; align-items: center;"-->
       <!--flex containter-->
       <!--children-->
-      <h1 class="noah">Noah</h1>
-      <h1 class="noah">Weiner</h1>
+
       <p>
-        COMING SOON!
+        
       </p>
     </div>
+
+    <div class="grid-container">
+      <div class="Header py-4 bg-red-900 px-8";>
+        Noah Weiner
+      </div>
+
+      <div class="Nav bg-gray-900 flex flex-col">
+        <div class="p-8 text-white uppercase">Work</div>
+        <div class="p-8 text-white uppercase">Play</div>
+        <div class="p-8 text-white uppercase">Line</div>
+      </div>
+
+      <div class="Content bg-pink-900">
+        
+      </div>
+    </div>
+
+
   </body>
 </html>

@@ -1,0 +1,62 @@
+@font-face {
+    font-family: "ostrich-sans";
+    src: url(../fonts/ostrich-sans/OstrichSans-Medium.otf) format('opentype');
+}
+
+html {
+  height: 100%;
+}
+
+body {
+  height: 100%;
+}
+
+
+.noah {
+    color: red;
+    background-color: green;
+    border: 1px solid brown;
+    padding: 50px;
+    margin: 30px;
+    display: inline;
+  }
+
+.container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+  }
+
+.light {
+    width: 10px;
+    height: 10px;
+    background-color: red;
+    border-radius: 1000px;
+  }
+
+.grid-container {
+    height: 100%;
+    display: grid;
+    grid-template-columns: auto 1fr;
+    grid-template-rows: auto 1fr;
+    gap: 0px 0px;
+    grid-template-areas: "Header Header" "Nav Content";
+  }
+
+.Header {
+    grid-area: Header; 
+    font-family: "ostrich-sans", sans-serif;
+    font-size: 100px;
+  }
+
+
+.Nav { 
+  grid-area: Nav; 
+  font-size: 50px;
+}
+
+
+.Content { 
+  grid-area: Content; 
+}
