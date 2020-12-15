@@ -1,0 +1,29 @@
+{
+  "name": "serviceberry3.github.io",
+  "version": "1.0.0",
+  "description": "Noah's personal website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start:css": "postcss index.css -o tailwind.css -w",
+    "build:css": "postcss index.css -o tailwind.css --env production",
+    "build:tailwind": "tailwind build css/home.css -o css/output.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/serviceberry3/serviceberry3.github.io.git"
+  },
+  "author": "Noah S. Weiner",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/serviceberry3/serviceberry3.github.io/issues"
+  },
+  "homepage": "https://github.com/serviceberry3/serviceberry3.github.io#readme",
+  "devDependencies": {
+    "tailwindcss": "^2.0.2"
+  },
+  "dependencies": {
+    "autoprefixer": "^10.1.0",
+    "postcss": "^8.2.1"
+  }
+}

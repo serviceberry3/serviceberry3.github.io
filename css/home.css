@@ -1,6 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
 @font-face {
     font-family: "ostrich-sans";
     src: url(../fonts/ostrich-sans/OstrichSans-Medium.otf) format('opentype');
+}
+
+@font-face {
+  font-family: "great-vibes";
+  src: url(../fonts/great-vibes/GreatVibes-Regular.otf) format('opentype');
+}
+
+@font-face {
+  font-family: "grand-hotel";
+  src: url(../fonts/grand-hotel/GrandHotel-Regular.otf) format('opentype');
 }
 
 html {
@@ -10,7 +24,6 @@ html {
 body {
   height: 100%;
 }
-
 
 .noah {
     color: red;
@@ -47,13 +60,14 @@ body {
 .Header {
     grid-area: Header; 
     font-family: "ostrich-sans", sans-serif;
-    font-size: 100px;
+    font-size: 80px;
   }
 
 
 .Nav { 
   grid-area: Nav; 
-  font-size: 50px;
+  font-size: 40px;
+  font-family: "grand-hotel";
 }
 
 
