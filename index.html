@@ -1,7 +1,7 @@
 ﻿<!DOCTYPE html>
 <html lang="en">
   <head>
-    <!--titile of the tab-->
+    <!--title of the tab-->
     <title>Noah Weiner</title>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -16,7 +16,6 @@
     <!--the built tailwind stylesheet-->
     <link href="css/output.css" type="text/css" rel="stylesheet" />
     
-    <title>Static Template</title>
     <!--nowidth means elements take up as much space as they need-->
     <style>
       
@@ -25,6 +24,7 @@
 
 
   <body>
+    <main>
     <!--parent-->
     <div class="container">
       <!--style="display: flex; flex-direction: row; justify-content:space-between; border: 1px solid brown; height: 200px; align-items: center;"-->
@@ -36,30 +36,37 @@
       </p>
     </div>
 
-    <div class="grid-container">
-      <div class="Header bg-red-900 px-8";>
-        <a href="index.html">Noah Weiner</a>
+    <div class="grid-container select-none">
+      <div id="name" class="Header bg-red-900 px-8";>
+        <a id="name" href="index.html">Noah Weiner</a>
       </div>
 
       <!--navigation panel-->
       <div class="Nav bg-gray-900 flex flex-col">
         <!--work button-->
         <div class="p-3 font-titillium text-4xl text-center">
-          <div class="group px-1 pt-3 pb-1 rounded-md text-white uppercase hover:bg-yellow-800 active:bg-green-500">
+          <div class="active:bg-green-500 group px-1 pt-3 pb-1 rounded-md text-white uppercase bg-blue-600
+          transition duration-500 ease-in-out
+          transform hover:-translate-y-1 hover:scale-110 hover:bg-yellow-800">
             <a class="group-hover:text-gray-400" href="work.html">Work</a>
+
           </div>
         </div>
 
         <!--play button-->
         <div class="p-3 font-amatic text-5xl text-center">
-          <div class="group pb-3 px-1 pt-0 rounded-md text-white uppercase hover:bg-yellow-800 active:bg-green-500">
+          <div class="active:bg-green-500 group px-1 pb-2 rounded-md text-white uppercase bg-blue-600
+          transition duration-500 ease-in-out
+          transform hover:-translate-y-1 hover:scale-110 hover:bg-yellow-800">
             <a class="group-hover:text-gray-400 align-middle" href="play.html">Play</a>
           </div>
         </div>
 
         <!--line button-->
         <div class="p-3 font-sofia text-center text-4xl">
-          <div class="group p-3 rounded-md text-white uppercase hover:bg-yellow-800 active:bg-green-500">
+          <div class="active:bg-green-500 group px-1 pt-3 pb-1 rounded-md text-white uppercase bg-blue-600
+          transition duration-500 ease-in-out
+          transform hover:-translate-y-1 hover:scale-110 hover:bg-yellow-800">
             <a class="group-hover:text-gray-400" href="line.html">Line</a>
           </div>
         </div>
@@ -72,6 +79,8 @@
       </div>
     </div>
 
+    </main>
+    <script src="js/home.js"></script>
 
   </body>
 </html>

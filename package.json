@@ -7,7 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start:css": "postcss index.css -o tailwind.css -w",
     "build:css": "postcss index.css -o tailwind.css --env production",
-    "build:tailwind": "tailwind build css/home.css -o css/output.css"
+    "build:tailwind": "tailwind build css/home.css -o css/output.css",
+    "build": "postcss css/home.css -o css/output.css"
   },
   "repository": {
     "type": "git",
@@ -20,10 +21,11 @@
   },
   "homepage": "https://github.com/serviceberry3/serviceberry3.github.io#readme",
   "devDependencies": {
+    "postcss": "^8.2.1",
+    "postcss-cli": "^8.3.1",
     "tailwindcss": "^2.0.2"
   },
   "dependencies": {
-    "autoprefixer": "^10.1.0",
-    "postcss": "^8.2.1"
+    "autoprefixer": "^10.1.0"
   }
 }
