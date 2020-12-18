@@ -5,20 +5,17 @@ module.exports = {
     extend: {},
   },
   variants: {
-    extend: {
+    textColor: ['responsive', 'hover', 'focus', 'active'],
       backgroundColor: ['responsive', 'hover', 'focus', 'active'],
-      textColor: ['responsive', 'hover', 'focus', 'active'],
-    
-      translate: ['responsive', 'hover', 'focus'],
-      transform: ['responsive', 'hover', 'focus'],
-      transformOrigin: ['responsive', 'hover', 'focus'],
-      transitionDelay: ['responsive', 'hover', 'focus'],
-      transitionDuration: ['responsive', 'hover', 'focus'],
-      transitionProperty: ['responsive', 'hover', 'focus'],
-      transitionTimingFunction: ['responsive', 'hover', 'focus'],
+      transitionDelay: ['responsive', 'hover', 'focus', 'active'],
+      transitionDuration: ['responsive', 'hover', 'focus', 'active'],
+      transitionProperty: ['responsive', 'hover', 'focus', 'active'],
+      transitionTimingFunction: ['responsive', 'hover', 'focus', 'active'],
       scale: ['responsive', 'hover', 'focus', 'active'],
+    extend: {
+      
       //transition: ['responsive', 'hover', 'focus', 'active'],
-    }
+    },
   },
   plugins: [],
 }
