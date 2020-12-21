@@ -206,3 +206,15 @@ using !important*/
   fill: #fdfdfd;
   transition: none;
 }
+
+.keyboard_letterbox {
+  border: 2px solid rgb(123, 116, 116);
+  font-size: 12px;
+  font-weight: bold;
+  color:rgb(123, 116, 116);
+  margin-top: 5px;
+}
+
+.keyboard {
+  margin-top: -40px;
+}

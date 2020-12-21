@@ -121,18 +121,24 @@ function playKey(target) {
     if (target.className == CLASS) {
         //get the number of the letter
         let index = parseInt(target.id.slice(PREFIX.length));
+        console.log(index);
 
         //set the letter to a random color
         target.style.color = randColor();
+        console.log("Color been set");
 
         target.style.display = "inline-block";
+        
         
         //space the letter out away from other letters
         target.style.paddingLeft = "8px";
         target.style.paddingRight = "8px";
 
         //increase the font size a little bit
-        target.style.fontSize = "7rem";
+        target.style.fontSize = "6rem";
+
+        target.style.transform = "translate(0px,-5px)";
+        
 
 
         //play the appropriate note for 200ms, passing callback fxn to remove the color, size, and padding changes after duration elapses
@@ -140,6 +146,7 @@ function playKey(target) {
             target.style.removeProperty('color');
             target.style.removeProperty('padding');
             target.style.removeProperty('font-size');
+            target.style.removeProperty('transform');
         });
     }
     //otherwise do nothing
@@ -159,3 +166,96 @@ onmousedown = function(e) {
 onmouseup = function() {
     mouseDown = false;
 }
+
+
+//formatting the letter keyboard
+const KEYBOARD = document.getElementById("keyboard");
+let keyboard_txt = KEYBOARD.textContent;
+
+KEYBOARD.textContent = '';
+
+
+for (i = 0; i < keyboard_txt.length; i++)
+{
+    var html = keyboard_txt.substr(i, 1);
+    console.log(html);
+
+    let new_letter = document.createElement('span');
+    new_letter.textContent = html;
+    new_letter.classList = ['keyboard_letterbox'];
+    new_letter.style.paddingLeft = "3px";
+    new_letter.style.paddingRight = "3px";
+
+
+
+    if (i == 0) {
+        new_letter.style.marginLeft = "10px";
+    }
+    if (i == 1) {
+        new_letter.style.marginLeft = "20px";
+    }
+    if (i == 2) {
+        new_letter.style.marginLeft = "26px";
+    }
+    if (i == 3) {
+        new_letter.style.marginLeft = "22px";
+    }
+    if (i == 4) {
+        new_letter.style.marginLeft = "65px";
+    }
+    if (i == 5) {
+        new_letter.style.marginLeft = "36px";
+    }
+    if (i == 6) {
+        new_letter.style.marginLeft = "9px";
+    }
+    if (i == 7) {
+        new_letter.style.marginLeft = "12px";
+    }
+    if (i == 8) {
+        new_letter.style.marginLeft = "22px";
+    }
+    if (i == 9) {
+        new_letter.style.marginLeft = "20px";
+    }
+
+    KEYBOARD.append(new_letter);
+}
+
+
+//listen for keys pressed
+onkeypress = function (e) {
+      switch (e.keyCode) {
+        case 97:
+            //play the appropriate note for 200ms, passing callback fxn to remove the color, size, and padding changes after duration elapses
+            playKey(document.getElementById('key_1'));
+            break;
+        case 115:
+            playKey(document.getElementById('key_2'));
+            break;
+        case 100:
+            playKey(document.getElementById('key_3'));
+            break;
+        case 102:
+            playKey(document.getElementById('key_4'));
+            break;
+        case 103:
+            playKey(document.getElementById('key_5'));
+            break;
+        case 104:
+            playKey(document.getElementById('key_6'));
+            break;
+        case 106:
+            playKey(document.getElementById('key_7'));
+            break;
+        case 107:
+            playKey(document.getElementById('key_8'));
+            break;
+        case 108:
+            playKey(document.getElementById('key_9'));
+            break;
+        case 59:
+            playKey(document.getElementById('key_10'));
+            break;
+    }
+};
