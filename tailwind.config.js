@@ -12,8 +12,9 @@ module.exports = {
       transitionProperty: ['responsive', 'hover', 'focus', 'active'],
       transitionTimingFunction: ['responsive', 'hover', 'focus', 'active'],
       scale: ['responsive', 'hover', 'focus', 'active'],
+      borderColor: ['responsive', 'hover', 'focus', 'active'],
+      fill: ['responsive', 'hover', 'focus', 'active'],
     extend: {
-      
       //transition: ['responsive', 'hover', 'focus', 'active'],
     },
   },
