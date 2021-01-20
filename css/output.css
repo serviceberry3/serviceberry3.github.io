@@ -30482,6 +30482,10 @@ main {
   height: 100%;
 }
 
+ul {
+  list-style-type:disc;
+}
+
 .noah {
   color: red;
   background-color: green;
