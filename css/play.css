@@ -9,3 +9,7 @@ h1 {
     border-color:rgba(34, 58, 237, 0.365);
     padding: 1rem;
 }
+
+.project a {
+    text-decoration: underline;
+}
