@@ -1,0 +1,21 @@
+.lgimg {
+    width:400px; 
+    border:10px solid rgb(65, 60, 60);
+}
+
+.smallimg {
+    width:250px;
+    border:10px double rgb(65, 60, 60);
+}
+
+.caption {
+    font-weight: 600;
+}
+
+.inline_figs figure {
+    /*we have to use inline-block, not inline, to be able to specify width and height, which allows
+    for the necessary wrapping of the figcaptions*/
+    display: inline-block;
+    width:600px;
+    vertical-align: top;
+}
