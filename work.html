@@ -2,11 +2,11 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
 
     <!--my own CSS rules, in location css/home.css-->
-    <link rel="stylesheet" href="css/home.css">
+    <!--<link rel="stylesheet" href="css/home.css">-->
 
     <!--import tailwind CSS (like bootstrap)
     <link
@@ -15,7 +15,8 @@
     /> -->
 
     
-    <link href="css/output.css" type="text/css" rel="stylesheet" />
+    <link href="css/output.css" type="text/css" rel="stylesheet">
+    <link href="css/work.css" type="text/css" rel="stylesheet">
 
     <title>Noah Weiner</title>
     <!--nowidth means elements take up as much space as they need-->
@@ -24,79 +25,80 @@
     </style>
   </head>
   <body>
-    <!--parent-->
-    <div class="container">
-      <!--style="display: flex; flex-direction: row; justify-content:space-between; border: 1px solid brown; height: 200px; align-items: center;"-->
-      <!--flex containter-->
-      <!--children-->
+    <main>
+      <!--parent-->
+      <div class="container">
+        <!--style="display: flex; flex-direction: row; justify-content:space-between; border: 1px solid brown; height: 200px; align-items: center;"-->
+        <!--flex containter-->
+        <!--children-->
 
-      <p>
-        
-      </p>
-    </div>
-
-    <div class="grid-container">
-      <div class="Header bg-red-900 px-8 pt-2";>
-        <a href="index.html">Noah Weiner</a>
-      </div>
-
-      <!--navigation panel-->
-      <div class="Nav bg-gray-900 flex flex-col">
-        <!--work button-->
-        <div class="p-3 font-titillium text-4xl text-center">
-          <div class="nav-button group px-1 pt-3 pb-1 rounded-md text-white uppercase bg-blue-600">
-            <a href="work.html">Work</a>
-          </div>
-        </div>
-
-        <!--play button-->
-        <div class="p-3 font-amatic text-5xl text-center">
-          <div class="nav-button group px-1 pb-2 rounded-md text-white uppercase bg-blue-600">
-            <a href="play.html">Play</a>
-          </div>
-        </div>
-
-        <!--line button-->
-        <div class="p-3 font-sofia text-center text-4xl">
-          <div class="nav-button group px-1 pt-3 pb-1 rounded-md text-white uppercase bg-blue-600">
-            <a href="line.html">Line</a>
-          </div>
-        </div>
-
-      </div>
-
-      <!--main content window of the page-->
-      <div class="Content bg-pink-900 p-14 text-2xl">
-        <p class="w-8/12 font-mono">
-          I am currently on leave from Yale doing research with the <a href=
-          "http://yecl.org" class="underline">Yale Efficient Computing Lab</a> under 
-          <a href="http://www.linzhong.org" class="underline">Professor Lin Zhong, Ph.D.</a>, to develop integration techniques for cell phones 
-          and flying drones in order to realize mobile hands-free computing experiences.
+        <p>
+          
         </p>
-        <p class="w-8/12 font-mono pt-4">
-          My tasks have included: 
-          <br><br>
-          <ul class="font-mono">
-            <li>Writing a framework for stabilizing text on the phone display
-              <ul class="ml-10">
-                <li>Modifying the native Android graphics pipeline and display (DRM) driver</li>
-              </ul>
-            </li>
-
-            <li>Developing a control interface between PC, Android, and an STM32 board using Wifi Direct and USB
-              <ul class="ml-10">
-                <li>Modifying the Crazyflie nanocopter firmware to send and receive control packets via USB</li>
-              </ul>
-            </li>
-
-            <li>Using OpenCV and pre-trained neural networks to create a computer vision system for human recognition, mapping, localization, and displacement calculation using a single camera</li>
-            <li>Troubleshooting and optimizing the drone's power consumption and size</li>
-          </ul>
-        </p>
-
       </div>
-    </div>
 
+      <div class="grid-container">
+        <div class="Header bg-red-900 px-8 pt-2";>
+          <a href="index.html">Noah Weiner</a>
+        </div>
 
+        <!--navigation panel-->
+        <div class="Nav bg-gray-900 flex flex-col">
+          <!--work button-->
+          <div class="p-3 font-titillium text-4xl text-center">
+            <div class="nav-button group px-1 pt-3 pb-1 rounded-md text-white uppercase bg-blue-600">
+              <a href="work.html">Work</a>
+            </div>
+          </div>
+
+          <!--play button-->
+          <div class="p-3 font-amatic text-5xl text-center">
+            <div class="nav-button group px-1 pb-2 rounded-md text-white uppercase bg-blue-600">
+              <a href="play.html">Play</a>
+            </div>
+          </div>
+
+          <!--line button-->
+          <div class="p-3 font-sofia text-center text-4xl">
+            <div class="nav-button group px-1 pt-3 pb-1 rounded-md text-white uppercase bg-blue-600">
+              <a href="line.html">Line</a>
+            </div>
+          </div>
+
+        </div>
+
+        <!--main content window of the page-->
+        <div class="Content bg-pink-900 p-14 text-2xl">
+          <p class="w-8/12 font-mono">
+            I am currently on leave from Yale doing research with the <a href=
+            "http://yecl.org" class="underline">Yale Efficient Computing Lab</a> under 
+            <a href="http://www.linzhong.org" class="underline">Professor Lin Zhong, Ph.D.</a>, to develop integration techniques for cell phones 
+            and flying drones in order to realize mobile hands-free computing experiences.
+          </p>
+          <p class="w-8/12 font-mono pt-4">
+            My tasks have included: 
+            <br><br>
+            <ul class="font-mono">
+              <li>Writing a framework for stabilizing text on the phone display
+                <ul class="ml-10 ul-lvl2">
+                  <li>Modifying the native Android graphics pipeline and display (DRM) driver</li>
+                </ul>
+              </li>
+
+              <li>Developing a control interface between PC, Android, and an STM32 board using Wifi Direct and USB
+                <ul class="ml-10 ul-lvl2">
+                  <li>Modifying the Crazyflie nanocopter firmware to send and receive control packets via USB</li>
+                </ul>
+              </li>
+
+              <li>Using OpenCV and pre-trained neural networks to create a computer vision system for human recognition, mapping, localization, and displacement calculation using a single camera</li>
+              <li>Troubleshooting and optimizing the drone's power consumption and size</li>
+            </ul>
+          </p>
+
+        </div>
+      </div>
+
+    </main>
   </body>
 </html>

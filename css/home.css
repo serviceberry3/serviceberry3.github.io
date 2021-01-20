@@ -43,11 +43,11 @@
   src: url(../fonts/sofia/Sofia-Regular.otf) format('opentype');
 }
 
-a:hover {
+.Header a:hover {
   color:rgb(172, 163, 158);
 }
 
-a:active {
+.Header a:active {
   color:black;
 }
 
@@ -65,6 +65,10 @@ main {
 
 ul {
   list-style-type:disc;
+}
+
+.ul-lvl2 {
+  list-style-type: square;
 }
 
 .noah {

@@ -129,7 +129,6 @@ function playKey(target) {
 
         target.style.display = "inline-block";
         
-        
         //space the letter out away from other letters
         target.style.paddingLeft = "8px";
         target.style.paddingRight = "8px";
@@ -139,8 +138,6 @@ function playKey(target) {
 
         target.style.transform = "translate(0px,-5px)";
         
-
-
         //play the appropriate note for 200ms, passing callback fxn to remove the color, size, and padding changes after duration elapses
         playNote(notes[index], 200, function() {
             target.style.removeProperty('color');

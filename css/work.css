@@ -1,0 +1,7 @@
+.Content a:hover {
+    color:#ff6f32;
+}
+
+.Content a:active {
+    color:aquamarine;
+}

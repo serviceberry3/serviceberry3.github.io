@@ -1,5 +1,29 @@
+@font-face {
+    font-family: "steelworks-vintage";
+    src: url(../fonts/steelworks-vintage/SteelworksVintageDemo-P5wE.otf) format('opentype');
+}
+
+@font-face {
+    font-family: "zniko";
+    src: url(../fonts/znikoslsvginot/Znikoslsvginot8-GOB3y.ttf) format('truetype');
+}
+
+
 h1 {
     padding-bottom: 10px;
+    font-family: "steelworks-vintage", sans-serif;
+}
+
+a:active {
+    color:aquamarine;
+}
+
+.Content a:hover {
+    color:rgb(172, 163, 158);
+}
+
+.Content a:active {
+    color:aquamarine;
 }
 
 .project {
@@ -8,6 +32,11 @@ h1 {
     border-width: 8px;
     border-color:rgba(34, 58, 237, 0.365);
     padding: 1rem;
+}
+
+.project-content {
+    font-family: "zniko", sans-serif;
+    font-weight: 900;
 }
 
 .project a {
