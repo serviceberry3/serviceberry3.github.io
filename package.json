@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/serviceberry3/serviceberry3.github.io#readme",
   "devDependencies": {
-    "postcss": "^8.2.1",
+    "postcss": "^8.2.10",
     "postcss-cli": "^8.3.1",
     "tailwindcss": "^2.0.2"
   },
