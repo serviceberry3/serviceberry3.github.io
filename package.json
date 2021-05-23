@@ -1,0 +1,29 @@
+{
+  "name": "serviceberry3.github.io_jek",
+  "version": "1.0.0",
+  "description": "My personal website.",
+  "main": "tailwind.config.js",
+  "dependencies": {
+    "autoprefixer": "^10.2.5",
+    "postcss": "^8.3.0",
+    "tailwindcss": "^2.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start:css": "postcss index.css -o tailwind.css -w",
+    "build:css": "postcss index.css -o tailwind.css --env production",
+    "build:tailwind": "tailwind build assets/css/home.css -o assets/css/output.css",
+    "build": "postcss css/home.css -o css/output.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/serviceberry3/serviceberry3.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/serviceberry3/serviceberry3.github.io/issues"
+  },
+  "homepage": "https://github.com/serviceberry3/serviceberry3.github.io#readme"
+}

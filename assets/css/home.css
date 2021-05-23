@@ -1,0 +1,228 @@
+@tailwind base;
+
+@tailwind components;
+
+.test-tw {
+  @apply bg-green-500
+}
+
+@tailwind utilities;
+
+@font-face {
+    font-family: "ostrich-sans";
+    src: url(../fonts/ostrich-sans/OstrichSans-Medium.otf) format('opentype');
+}
+
+@font-face {
+  font-family: "ostrich-sans-bold";
+  src: url(../fonts/ostrich-sans/OstrichSans-Black.otf) format('opentype');
+}
+
+@font-face {
+  font-family: "great-vibes";
+  src: url(../fonts/great-vibes/GreatVibes-Regular.otf) format('opentype');
+}
+
+@font-face {
+  font-family: "grand-hotel";
+  src: url(../fonts/grand-hotel/GrandHotel-Regular.otf) format('opentype');
+}
+
+@font-face {
+  font-family: "amatic";
+  src: url(../fonts/amatic/Amatic-Bold.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: "titillium";
+  src: url(../fonts/titillium/Titillium-Regular.otf) format('opentype');
+}
+
+@font-face {
+  font-family: "sofia";
+  src: url(../fonts/sofia/Sofia-Regular.otf) format('opentype');
+}
+
+.Header a:hover {
+  color:rgb(172, 163, 158);
+}
+
+.Header a:active {
+  color:black;
+}
+
+html {
+  height: 100%;
+}
+
+body {
+  height: 100%;
+}
+
+main {
+  height: 100%;
+}
+
+ul {
+  list-style-type:disc;
+}
+
+.ul-lvl2 {
+  list-style-type: square;
+}
+
+.noah {
+    color: red;
+    background-color: green;
+    border: 1px solid brown;
+    padding: 50px;
+    margin: 30px;
+    display: inline;
+  }
+
+.container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+  }
+
+.light {
+    width: 10px;
+    height: 10px;
+    background-color: red;
+    border-radius: 1000px;
+  }
+
+.grid-container {
+    height: 100%;
+    display: grid;
+    grid-template-columns: auto 1fr;
+    grid-template-rows: 20% 1fr;
+    gap: 0px 0px;
+    grid-template-areas: "Header Header"
+                         "Nav Content";
+  }
+
+.Header {
+    grid-area: Header; 
+    font-family: "ostrich-sans-bold", sans-serif;
+    font-size: 90px;
+  }
+
+
+.Nav { 
+  grid-area: Nav; 
+  font-size: 40px;
+}
+
+.font-amatic {
+  font-family: "amatic", sans-serif;
+}
+
+.font-titillium {
+  font-family: "titillium", sans-serif;
+}
+
+.font-sofia {
+  font-family: "sofia", sans-serif;
+}
+
+
+.nav-button {
+  padding-left: 0.25rem;
+  padding-right: 0.25rem;
+  transition: all 0.4s;
+  transition-timing-function: ease-in-out;
+}
+
+.nav-button:hover {
+  background-color: rgba(146, 64, 14, 1);
+  transform: scale(1.1) translateY(-4px);
+}
+
+.nav-button:active {
+  background-color: rgba(16, 185, 129, 1);
+  transition: none;
+}
+
+
+.Content { 
+  grid-area: Content; 
+}
+
+.social {
+  cursor: default;
+  list-style: none;
+}
+.social li {
+  display: inline-block;
+  padding: 4px;
+}
+
+.social a {
+  cursor: default;
+  border: none;
+}
+.social svg {
+  fill: rgb(236, 234, 234);
+  height: 40px;
+  width: 40px;
+  border-radius: 20%;
+  border: solid 1px rgb(233, 225, 225);
+  padding: 4px;
+  cursor: pointer;
+  transition: .3s;
+}
+
+.social svg:hover {
+  transform: rotate(360deg);
+  transition: .5s;
+}
+
+/*Careful. Now that we're setting the svg hover specifically for these li tags, we'll also need to set the active for each of them, if we want to avoid
+using !important*/
+.social li#mail svg:hover {
+  border-color: #ff6f32;
+  fill: #ff6f32;
+}
+
+.social li#mail svg:active {
+  border-color: #fdfbfa;
+  fill: #fdfdfd;
+  transition: none;
+}
+
+.social li#github svg:hover {
+  border-color: #4fec51;
+  fill: #4fec51;
+}
+
+.social li#github svg:active {
+  border-color: #fdfbfa;
+  fill: #fdfdfd;
+  transition: none;
+}
+
+.social li#linkedin svg:hover {
+  border-color: #0077B5;
+  fill: #0077B5;
+}
+
+.social li#linkedin svg:active {
+  border-color: #fdfbfa;
+  fill: #fdfdfd;
+  transition: none;
+}
+
+.keyboard_letterbox {
+  border: 2px solid rgb(123, 116, 116);
+  font-size: 12px;
+  font-weight: bold;
+  color:rgb(123, 116, 116);
+  margin-top: 5px;
+}
+
+.keyboard {
+  margin-top: -40px;
+}
