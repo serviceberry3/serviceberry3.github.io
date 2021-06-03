@@ -1,8 +1,0 @@
----
-layout: post
-title: 'jrkdkdk'
-date: Thu Jun 03 00:49:25 EDT 2021
-categories: 
-blog: at
----
-dmfkdkf
