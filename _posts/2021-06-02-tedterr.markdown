@@ -1,0 +1,8 @@
+---
+layout: post
+title: 'tedterr'
+date: Wed Jun 02 23:27:12 EDT 2021
+categories: 
+blog: at
+---
+hey fuys 
