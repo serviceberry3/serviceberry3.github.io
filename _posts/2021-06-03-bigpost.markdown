@@ -1,8 +1,0 @@
----
-layout: post
-title: 'bigpost'
-date: Thu Jun 03 21:46:29 EDT 2021
-categories: 
-blog: at
----
-hey every one

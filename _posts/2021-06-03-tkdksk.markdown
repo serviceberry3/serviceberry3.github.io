@@ -1,8 +1,0 @@
----
-layout: post
-title: 'tkdksk'
-date: Thu Jun 03 22:16:00 EDT 2021
-categories: 
-blog: at
----
-sidic

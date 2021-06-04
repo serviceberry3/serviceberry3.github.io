@@ -1,8 +1,0 @@
----
-layout: post
-title: 'hey boi'
-date: Thu Jun 03 22:06:54 EDT 2021
-categories: 
-blog: at
----
-what's good 
