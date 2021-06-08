@@ -1,8 +1,0 @@
----
-layout: post
-title: 'nckdox'
-date: Tue Jun 08 02:35:00 EDT 2021
-categories: 
-blog: at
----
-xkxkdk

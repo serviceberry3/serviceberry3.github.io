@@ -1,8 +1,0 @@
----
-layout: post
-title: 'ncidis'
-date: Sat Jun 05 01:08:03 EDT 2021
-categories: 
-blog: at
----
-dmckd

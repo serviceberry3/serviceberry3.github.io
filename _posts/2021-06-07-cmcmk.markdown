@@ -1,8 +1,0 @@
----
-layout: post
-title: 'cmcmk'
-date: Mon Jun 07 22:45:41 EDT 2021
-categories: 
-blog: at
----
-dkeodk

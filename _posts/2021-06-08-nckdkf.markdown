@@ -1,8 +1,0 @@
----
-layout: post
-title: 'nckdkf'
-date: Tue Jun 08 01:22:20 EDT 2021
-categories: 
-blog: at
----
-sjekdkek

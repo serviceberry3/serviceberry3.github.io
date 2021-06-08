@@ -1,8 +1,0 @@
----
-layout: post
-title: 'mxmck'
-date: Tue Jun 08 01:15:55 EDT 2021
-categories: 
-blog: at
----
-xmjdk

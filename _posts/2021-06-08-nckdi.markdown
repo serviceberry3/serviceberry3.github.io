@@ -1,8 +1,0 @@
----
-layout: post
-title: 'nckdi'
-date: Tue Jun 08 01:05:28 EDT 2021
-categories: 
-blog: at
----
-cmclw

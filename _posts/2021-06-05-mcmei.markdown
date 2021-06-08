@@ -1,8 +1,0 @@
----
-layout: post
-title: 'mcmei'
-date: Sat Jun 05 01:05:51 EDT 2021
-categories: 
-blog: at
----
-fmcksk
