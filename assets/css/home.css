@@ -226,3 +226,23 @@ using !important*/
 .keyboard {
   margin-top: -40px;
 }
+
+footer {
+  background-color: #42A5F5;
+  line-height: 50px; /*line spacing for text*/
+  /*top/bottom, right/left*/
+  padding: 0 20px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+footer a:hover {
+  color: white;
+}
+
+footer a#nweiner:active {
+  color: rgba(6, 78, 59, var(--tw-text-opacity));
+}
+
+footer a#source:active {
+  color: rgba(30, 58, 138, var(--tw-text-opacity));
+}
