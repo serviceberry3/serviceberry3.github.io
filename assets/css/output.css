@@ -31933,7 +31933,7 @@ ul {
   height: 100%;
   display: grid;
   grid-template-columns: auto 1fr;
-  grid-template-rows: 20% 1fr 10%;
+  grid-template-rows: 20% 70% 10%;
   gap: 0px 0px;
   grid-template-areas: "Header Header"
                          "Nav Content"
@@ -32066,9 +32066,9 @@ using !important*/
 .Footer {
   grid-area: Footer;
   background-color: #42A5F5;
-  /*line-height: 50px;*/ /*line spacing for text*/
+  line-height: 50px; /*line spacing for text*/
   /*top/bottom, right/left*/
-  /*padding: 0 0px;*/
+  padding: 0 0px;
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
