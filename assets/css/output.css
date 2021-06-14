@@ -31947,6 +31947,7 @@ ul {
 }
 
 .Nav {
+  height: 100%;
   grid-area: Nav;
   font-size: 40px;
 }
@@ -31981,6 +31982,7 @@ ul {
 }
 
 .Content {
+  height: 100%;
   grid-area: Content;
 }
 
