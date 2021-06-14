@@ -106,7 +106,7 @@ ul {
   }
 
 .Header {
-    grid-area: Header; 
+    grid-area: Header;
     font-family: "ostrich-sans-bold", sans-serif;
     font-size: 90px;
   }
