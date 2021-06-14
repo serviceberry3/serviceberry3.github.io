@@ -98,10 +98,11 @@ ul {
     height: 100%;
     display: grid;
     grid-template-columns: auto 1fr;
-    grid-template-rows: 20% 1fr;
+    grid-template-rows: 20% 1fr 10%;
     gap: 0px 0px;
     grid-template-areas: "Header Header"
-                         "Nav Content";
+                         "Nav Content"
+                         "Footer Footer";
   }
 
 .Header {
@@ -109,7 +110,6 @@ ul {
     font-family: "ostrich-sans-bold", sans-serif;
     font-size: 90px;
   }
-
 
 .Nav { 
   grid-area: Nav; 
@@ -145,7 +145,6 @@ ul {
   background-color: rgba(16, 185, 129, 1);
   transition: none;
 }
-
 
 .Content { 
   grid-area: Content; 
@@ -227,7 +226,8 @@ using !important*/
   margin-top: -40px;
 }
 
-footer {
+.Footer {
+  grid-area: Footer;
   background-color: #42A5F5;
   line-height: 50px; /*line spacing for text*/
   /*top/bottom, right/left*/
@@ -235,14 +235,14 @@ footer {
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
-footer a:hover {
+.Footer a:hover {
   color: white;
 }
 
-footer a#nweiner:active {
+.Footer a#nweiner:active {
   color: rgba(6, 78, 59, var(--tw-text-opacity));
 }
 
-footer a#source:active {
+.Footer a#source:active {
   color: rgba(30, 58, 138, var(--tw-text-opacity));
 }
