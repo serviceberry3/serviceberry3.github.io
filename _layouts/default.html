@@ -5,19 +5,23 @@
 
   <body>
     <main>
-    <!--the basic grid of the page (takes up whole page)-->
-    <div class="grid-container">
-      
-        {%- include header.html home=page.home-%}
+      <!--the basic grid of the page (takes up whole page)-->
+      <div class="grid-container">
+        
+          {%- include header.html home=page.home-%}
 
-        {%- include nav.html -%}
+          {%- include nav.html -%}
 
-        <!--main content window of the page-->
-        <div class="Content bg-pink-900 p-14 text-2xl">
-            {{ content }}
-        </div>
-    </div>
+          <!--main content window of the page-->
+          <div class="Content bg-pink-900 p-14 text-2xl">
+              {{ content }}
+          </div>
 
+          <div class="Footer select-none text-yellow-200">
+            Site developed and maintained by Noah Weiner. 
+            <a id="source" class="text-blue-900" href="https://github.com/serviceberry3/serviceberry3.github.io"> Source.</a>
+          </div>
+      </div>
     </main>
   </body>
   <script src="{{ '/assets/js/home.js' | prepend: site.baseurl }}"></script>
