@@ -65,7 +65,7 @@ function colorLetter(target) {
         let index = parseInt(target.id.slice(PREFIX.length));
         console.log(index);
 
-        //set the letter to a random color
+        //set the letter to purple
         target.style.color = 'rgba(34, 58, 237, 0.365)';
         console.log("Color been set");
 
