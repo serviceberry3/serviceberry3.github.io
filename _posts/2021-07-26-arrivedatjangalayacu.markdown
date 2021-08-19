@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Arrived at Jangalayacu'
-date: Mon Jul 26 22:39:22 GMT-05:00 2021
+date: Mon Jul 12 22:39:22 GMT-05:00 2021
 categories: 
 blog: peru
 ---

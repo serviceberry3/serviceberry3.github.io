@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Rompope - pajita pulenta'
-date: Tue Aug 10 09:36:07 EDT 2021
+title: 'Rompope - pajita pulenta - EDITED'
+date: Fri Aug 06 09:36:07 EDT 2021
 categories: 
 blog: peru
 ---
@@ -60,7 +60,25 @@ So the crazy part is that everyone seems to see the same things during the San P
 Gian also told me about this time he and his cousin went down to the South of Peru to this shaman's house to do a San Pedro ceremony, and then the shaman turned out to be a brujo malero, or someone who uses their shamanistic abilities for wicked ends. Basically a witch. Anyway, I think someone had hired the guy to perform a voodoo-style murder, and while Gian and his cousin were on the San Pedro, the brujo all of a sudden filled a sack with some clothes and fabrics and said they had to leave and drive somewhere to do something. Everyone got in the truck and they drove to a mountaintop, where the shaman began stabbing the bag repeatedly. Gian saw something writhing painfully in the bag, and it made him extremely uncomfortable. Later that night, he and his cousin were in bed when they both felt something brush against their backs and then start to squeeze them really hard. They both screamed and ran outside. Then, recently at the desert farm, Gian went out to pee in the middle of the night (this time he hadn't even taken San Pedro) when something seemed to creep up behind him and whisper, "Do you remember me from December 2017?" And December 2017 had been when they were staying at the shaman's house in the southern sierra. 
 
 
-Yeah, so those stories were pretty entertaining, especially because Gian told me them at night and outside. He said he would never spend a night here alone, because there were too many spirits and scary things around. He said San Pedro reveals that every little piece of nature in your surroundings, and every plant, is actually a living, breathing, speaking entity. He also says its important to cleanse and prepare your body for about a week or a few days before you take the San Pedro, like you should eat a light diet low in saturated fat and sugar. Supposedly Ayahuasca clinics also do that. 
+Yeah, so those stories were pretty entertaining, especially because Gian told me them at night and outside. Supposedly he also once communicated with his uncle via dream. He said he would never spend a night here at the desert farm alone, because there were too many spirits and scary things around. He said San Pedro reveals that every little piece of nature in your surroundings, and every plant, is actually a living, breathing, speaking entity. He also says its important to cleanse and prepare your body for about a week or a few days before you take the San Pedro, like you should eat a light diet low in saturated fat and sugar. Supposedly Ayahuasca clinics also do that. 
+
+One night after dinner Giancarlo and I shared crazy stories from our childhood/youth. One of his was about how he never drinks tequila anymore because once he went to a club, had some shots of tequila, and at the end of the night woke up in a park without his shoes. 
+
+I also asked him why people call each other mami and papi so much in Peru, and he said they were just sort of endearing terms. 
+
+He told me that in South America, anytime anyone hears Spain Spanish being spoken, they can't take it seriously and associate it with pornographic films, because apparently Spain always used to dub pornos in Spain Spanish and send them to Latin America. 
+
+Also, I forgot to mention that all of the toilets in Peru have been insanely weak. Notoriously weak, I would say.
+
+Giancarlo steals some bell peppers from the huge pepper farm next to his family's farm to eat. Also, I can now conclude that all Peruvians eat really fast and don't spend much time at their meals, unlike Spaniards. And there is a Peruvian mail system called Serpost, but it's not used much, and most people in rural areas can't receive mail because they don't have addresses.
+
+All of the beds at the desert farm have mosquito nets, and Giancarlo introduced me to this natural bug repellent made from a tree called molle. It smelled amazing. And worked, as far as I could tell.
+
+When Giancarlos' uncle came, he also brought a bottle of a drink called clarito, which is basically a less-fermented version of chicha de jora (made from corn, sort of kombucha-like).
+
+One day we talked a lot about music tastes. Giancarlo is into a lot of rock from the 80s and 90s. He named a ton of bands that I'd never heard of :/
+
+One of my favorite things about the desert farm was this pet chicken (rooster) they have. Literally a pet. It's mother was killed when it was a newborn, so they decided to take it and raise it as a household pet. And now it can't hang out with the rest of the chickens anymore, it just loiters in and around the house all the time. It's also extremely tame and loves humans, so you can easily pet it and pick it up. Sometimes it will jump up on you of its own accord. It's also really beautiful. It has big eyes and gold and black feathers. It is unfortunately really loud, though.
 
 
 Nico left shortly before I arrived. He's doing a walking trip through South America, walking along the coast and trying to make it down through Chile. Hes going to try to do the Choqueqirao->Machu Picchu hike, and Gian will try to join him for that.
