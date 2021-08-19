@@ -21,7 +21,7 @@ That night I finally got 10 hours of sleep, and it felt amazing. The next mornin
 
 
 My stay on the farm was great, a lot of it was just relaxing in the hammock and talking to Giancarlos. I barely did anything, because there's not much to do besides feed the animals. Gian also doesnt like to work at all after the sun comes out because its too hot. It didn't feel that hot to me, though, probably because of the low humidity. They do have some plants on the farm, mostly desert trees that they planted: orange, algorrobo, moringa, sapote, and neem. They have a lot of prickly pear cacti, San Pedro, 
-(a cactus which contains the hallucinogen mescaline and is cooked for shamanistic ceremonies), and are planting some tamarind trees. There's also a small vegetable garden: lettuce, tomatoes, beets. I help feed and water the animals, plant tamarinds, and remove some big bushes that are stealing water from the trees. 
+(a cactus which contains the hallucinogen mescaline and is cooked for shamanistic ceremonies, which Octa also had growing in La Casa del Arbol), and are planting some tamarind trees. There's also a small vegetable garden: lettuce, tomatoes, beets. I help feed and water the animals, plant tamarinds, and remove some big bushes that are stealing water from the trees. 
 
 
 For meals we cooked quinoa risotto, rice and lentils with a pepper, onion, and aji chile salad, sometimes fried eggs for breakfast (fresh from the hens). Thurs morning I made pancakes, although there was just flour, water, sugar, and eggs, so they were very dense. We topped them with a fruit salad of papaya, watermelon, banana, honey, and something which in Peru is known as mango ciruelo, it looks like it's called 
