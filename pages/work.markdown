@@ -18,16 +18,20 @@ home: false
     <ul class="font-mono">
       <li>Writing a framework for stabilizing text on the phone display
         <ul class="ml-10 ul-lvl2">
-          <li>Modifying the native Android graphics pipeline and display (DRM) driver</li>
+          <li>Modifying the native Android graphics pipeline and display (DRM) driver to improve rendering speed</li>
         </ul>
       </li>
-      <li>Developing a control interface between PC, Android, and an STM32 board using Wifi Direct and USB
+      <li>Developing a safe control interface between PC, Android, and an STM32 board using Wifi Direct and USB
         <ul class="ml-10 ul-lvl2">
-          <li>Modifying the Crazyflie nanocopter firmware to send and receive control packets via USB</li>
+          <li>Modifying the FreeRTOS-based Crazyflie nanocopter firmware to send and receive control packets via USB</li>
+          <li>Modifying the existing Crazyflie controller app to stream high-level commands to the onboard phone via WiFi</li>
         </ul>
       </li>
-      <li>Using OpenCV and pre-trained neural networks to create a computer vision system for human recognition, mapping, localization, and displacement calculation using a single camera</li>
+      <li>Using OpenCV and pre-trained neural networks to create a computer vision system for human recognition, mapping, localization, and following using a single camera</li>
       <li>Troubleshooting and optimizing the drone's power consumption and size</li>
     </ul>
 </p>
  <script src="{{ '/assets/js/work.js' | prepend: site.baseurl }}"></script>
+
+
+
