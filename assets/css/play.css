@@ -28,14 +28,14 @@ a:active {
 
 .project {
     margin-top: 2.5rem;
-    /*border-style: dashed;
-    border-width: 8px;*/
-    /*border-color:rgba(34, 58, 237, 0.365);*/
+    border-style: dashed;
+    border-width: 8px;
+    border-color:rgba(34, 58, 237, 0.365);
     padding: 1rem;
 }
 
 .project-content {
-    font-family: "zniko", sans-serif;
+    font-family: sans-serif;
     font-weight: 900;
     color:rgb(172, 163, 158);
 }

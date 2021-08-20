@@ -1,4 +1,3 @@
-/*
 //iterator
 let i = 0;
 
@@ -106,4 +105,3 @@ onmousedown = function(e) {
 onmouseup = function() {
     mouseDown = false;
 }
-*/
