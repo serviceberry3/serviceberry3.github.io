@@ -18,7 +18,7 @@ home: false
     <a id="hypewriter" href="https://github.com/serviceberry3/hypewriter">The HypeWriter</a>
 </h1>
 <p class="project-content">I'm taking an old Royal Safari typewriter and digitizing it by adding an array of buttons on the underside of the machine.
-    When a key is pressed, it will hit a button that triggers a specific voltage input for an Arduino (Elegoo, actually) Nano. 
+    When a key is pressed, it hits a button that triggers a specific voltage input for an Arduino (Elegoo, actually) Nano. 
     The letter will appear on an LCD dislay, and it will look like the typewriter is "stamping" the display. An interface will 
     be created allowing the user to create files on an SD card and write text, and also pan around within the file. The carriage
     is controlled via I2C connection to an NXT brick and two old NXT servos I had, which turn two spools of fishing line.
