@@ -36,8 +36,12 @@ a:active {
 
 .project-content {
     font-family: monospace, sans-serif;
-    font-weight: 700;
+    font-weight: 500;
     color:rgb(172, 163, 158);
+}
+
+.project-content a:hover {
+    color:rgba(34, 58, 237, 0.365);
 }
 
 .project a {
