@@ -45,7 +45,7 @@ home: false
 </h1>
 <p class="project-content">My longest ongoing project. An iMessage auto-reply robot which can store and retrieve users’ information in a database, 
     call users and deliver automated robotic messages, schedule appointments, and remotely control an LED display. Works on old and new
-    versions of MacOS. Working on creating a version for Android.</a>
+    versions of MacOS. Working on creating a version for Android.
 </p>
 </div>
 <div class="project">

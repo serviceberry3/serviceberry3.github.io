@@ -35,8 +35,8 @@ a:active {
 }
 
 .project-content {
-    font-family: "zniko", sans-serif;
-    font-weight: 1200;
+    font-family: monospace, sans-serif;
+    font-weight: 700;
     color:rgb(172, 163, 158);
 }
 
