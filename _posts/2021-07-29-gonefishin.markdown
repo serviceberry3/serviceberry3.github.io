@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Gone fishin'
+title: 'Gone fishin - EDITED'
 date: Thu Jul 22 21:46:40 GMT-05:00 2021
 categories: 
 blog: peru
@@ -11,9 +11,9 @@ Today late afternoon around 4 Nelli and Pollix came back from Chazuta and whippe
 
 07/23
 
-Last day on the cacao farm. Jose stayed in Chazuta and Nelli had come back the night before. Today Nelli found 2 people in Tupac to do work. One of them worked in the morning in exchange for breakfast and lunch. For breakfast some niños from Tupac, friends of Pollix, came (children of the workers).
+Last day on the cacao farm. Jose stayed in Chazuta and Nelli had come back the night before. Today Nelli found 2 people in Tupac to do work. One of them worked in the morning in exchange for breakfast and lunch. For breakfast some niños from Tupac, friends of Pollix, came (children of the workers). It was very interesting that Nelli found two workers today--Jose and Nelli had told me that it seemed like some men from Tupac only wanted to come to work at Jangalayacu to see Nelli, so they would usually come only when Jose was gone. Sure enough, the day Jose was gone was the day the workers came...
 
-I peeled a bunch of cacao, then we had lunch and the worker told me he was looking for a white wife and that I should bring my girlfriend to visit Tupac, that he would pay for her ticket. He asked me if in the US we had similar fresh water fish to those in Tupac, and I learned fresh water is "sweet water" in Spanish. After lunch I finished peeling the cacao, then Jose came back and Jose, Nelli, and I ground the cacao using a mill into a powder. Jose said his dad, many years ago, had invested in coffee by buying a bunch from Ecuador or Peru and selling it to the US. But then the price crashed and he lost a lot. Jose wanted to make his chocolate brand to support his reforestation project, and he said that would also make an attractive label.
+I peeled a bunch of cacao, then we had lunch and the worker (muchacho) told me he was looking for a white wife and that I should bring my girlfriend to visit Tupac, that he would pay for her ticket. He asked me if in the US we had similar fresh water fish to those in Tupac, and I learned fresh water is "sweet water" in Spanish. After lunch I finished peeling the cacao, then Jose came back and Jose, Nelli, and I ground the cacao using a mill into a powder. Jose said his dad, many years ago, had invested in coffee by buying a bunch from Ecuador or Peru and selling it to the US. But then the price crashed and he lost a lot. Jose wanted to make his chocolate brand to support his reforestation project, and he said that would also make an attractive label.
 
 That night a friend, Don Jesus, came for dinner. He explained the difference between a mule and a donkey, which I sadly didn't even know existed. A mule is the product of a donkey breeding with a horse. I also learned that Jose is known in Tupac as Don Pepe, apparently Pepe is a Nickname for Jose. At dinner we talked some about the COVID vaccines. The vaccination process is different in each región of Perú. Nelli (31) had already received both doses, she'd gotten the second one while I was there. Jose was still too old but wasn't going to take the vaccine because he didn't trust it yet. I've already heard tons of theories about COVID in Peru. A lot seem to think China created COVID for various reasons, even just so they could feed their production of PPE. It didn't seem like Jose knew much about the vaccines or the trials in general. He does only access the Internet once a week.
 
