@@ -28,8 +28,8 @@ home: false
 <h1 class="text-5xl">
     <a id="indygo" href="https://github.com/serviceberry3/indygo_punctuality">IndyGo Punctuality</a>
 </h1>
-<p class="project-content">This is a website that uses PHP web scraping to analyze the punctuality of <a href="https://www.indygo.net">
-    IndyGo</a> buses. Running on an Ubuntu home server, served by Apache2.</p>
+<p class="project-content">This is a website that uses PHP web scraping/API queries to analyze the punctuality of <a href="https://www.indygo.net">
+    IndyGo</a> buses. Running on an Ubuntu home server, served by Apache2. To access the site, connect to YaleSecure, go to either <a href="http://thepri.us">thepri.us</a> or <a href="http://bobthebuildr.co.uk">bobthebuildr.co.uk</a>, and change to port 80. Use Chrome or Firefox.</p>
 </div>
 <div class="project">
 <h1 class="text-5xl">
@@ -37,7 +37,7 @@ home: false
 </h1>
 <p class="project-content">This is a Ruby on Rails website to track all of the GPX tracks my Prius has driven, display them on a map, attach blog 
     posts to certain locations, and create stats about the car. Hosted on a home server, served by Nginx->Phusion Passenger 
-    on a Vagrant VM.</p>
+    on a Vagrant VM. The site is now available at <a href="http://thepri.us">thepri.us</a> when connected to YaleSecure. Use Chrome or Firefox.</p>
 </div>
 <div class="project">
 <h1 class="text-5xl">
@@ -56,7 +56,7 @@ home: false
     loved by exchange students, Yale students, and <a href="https://www.nchs.cc">North Central High 
     School</a> students alike. Best known for his love 
     of hot tubs, travel, and laid-back party hosting, he was misplaced in a warehouse in 2020. Come home, Bob. We miss you.
-    In loving memory: a Flask site served by Nginx->Gunicorn on a Vagrant VM running on a home server.</p>
+    In loving memory: a Flask site served by Nginx->Gunicorn on a Vagrant VM running on a home server. The site is now available at <a href="http://bobthebuildr.co.uk">bobthebuildr.co.uk</a> when connected to YaleSecure. Use Chrome or Firefox.</p>
 </div>
 <div class="project">
 <h1 class="text-5xl">
