@@ -29,7 +29,7 @@ home: false
     <a id="indygo" href="https://github.com/serviceberry3/indygo_punctuality">IndyGo Punctuality</a>
 </h1>
 <p class="project-content">This is a website that uses PHP web scraping/API queries to analyze the punctuality of <a href="https://www.indygo.net">
-    IndyGo</a> buses. Running on an Ubuntu home server, served by Apache2. To access the site, connect to YaleSecure, and go to either <a href="http://www.thepri.us">thepri.us</a> or <a href="http://www.bobthebuildr.co.uk">bobthebuildr.co.uk</a>. Use Chrome or Firefox.</p>
+    IndyGo</a> buses. Running on an Ubuntu home server, served by Apache2. To access the site, connect to YaleSecure, and go to either <a href="http://www.thepri.us">thepri.us</a> or <a href="http://www.bobthebuildr.co.uk">bobthebuildr.co.uk</a>. Use Chrome or Firefox. Server hours: approx 10:30a-22:30p, M-F.</p>
 </div>
 <div class="project">
 <h1 class="text-5xl">
@@ -37,7 +37,7 @@ home: false
 </h1>
 <p class="project-content">This is a Ruby on Rails website to track all of the GPX tracks my Prius has driven, display them on a map, attach blog 
     posts to certain locations, and create stats about the car. Hosted on a home server, served by Nginx->Phusion Passenger 
-    on a Vagrant VM. The site is now available at <a href="http://www.thepri.us:8080">thepri.us:8080</a> when connected to YaleSecure. Use Chrome or Firefox.</p>
+    on a Vagrant VM. The site is now available at <a href="http://www.thepri.us:8080">thepri.us:8080</a> when connected to YaleSecure. Use Chrome or Firefox. Server hours: approx 10:30a-22:30p, M-F.</p>
 </div>
 <div class="project">
 <h1 class="text-5xl">
@@ -56,7 +56,7 @@ home: false
     loved by exchange students, Yale students, and <a href="https://www.nchs.cc">North Central High 
     School</a> students alike. Best known for his love 
     of hot tubs, travel, and laid-back party hosting, he was misplaced in a warehouse in 2020. Come home, Bob. We miss you.
-    In loving memory: a Flask site served by Nginx->Gunicorn on a Vagrant VM running on a home server. The site is now available at <a href="http://www.bobthebuildr.co.uk:8080">bobthebuildr.co.uk:8080</a> when connected to YaleSecure. Use Chrome or Firefox.</p>
+    In loving memory: a Flask site served by Nginx->Gunicorn on a Vagrant VM running on a home server. The site is now available at <a href="http://www.bobthebuildr.co.uk:8080">bobthebuildr.co.uk:8080</a> when connected to YaleSecure. Use Chrome or Firefox. Server hours: approx 10:30a-22:30p, M-F.</p>
 </div>
 <div class="project">
 <h1 class="text-5xl">
