@@ -55,12 +55,16 @@ html {
   height: 100%;
 }
 
+p a {
+  color:rgb(236, 234, 234);
+}
+
 p a:hover {
-  color:rgb(172, 163, 158);
+  color:black;
 }
 
 p a:active {
-  color:black;
+  color:rgb(172, 163, 158);
 }
 
 body {
