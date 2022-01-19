@@ -30,4 +30,5 @@ layout: default
     </ul>
   {%- endif -%}
 
+  <p>The rest of this blog has been archived. If you're interested in viewing it, <a href="mailto:noah.weiner@yale.edu">email me</a>.</p>
 </div>
