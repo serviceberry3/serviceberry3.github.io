@@ -31890,7 +31890,15 @@ html {
   height: 100%;
 }
 
+p a {
+  color:rgb(172, 163, 158);
+}
+
 p a:hover {
+  color:black;
+}
+
+p a:active {
   color:rgb(172, 163, 158);
 }
 
