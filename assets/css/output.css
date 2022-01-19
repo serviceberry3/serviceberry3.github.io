@@ -31890,6 +31890,10 @@ html {
   height: 100%;
 }
 
+p a:hover {
+  color:rgb(172, 163, 158);
+}
+
 body {
   height: 100%;
 }
@@ -32082,6 +32086,10 @@ using !important*/
 }
 
 .Footer a#source:active {
+  color: rgba(30, 58, 138, var(--tw-text-opacity));
+}
+
+.Footer a#erik:active {
   color: rgba(30, 58, 138, var(--tw-text-opacity));
 }
 

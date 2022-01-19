@@ -59,6 +59,10 @@ p a:hover {
   color:rgb(172, 163, 158);
 }
 
+p a:active {
+  color:black;
+}
+
 body {
   height: 100%;
 }
