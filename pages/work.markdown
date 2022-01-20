@@ -7,7 +7,7 @@ home: false
   <link rel="stylesheet" href="{{ '/assets/css/work.css' | prepend: site.baseurl }}">
 </head>
 <p class="w-8/12 font-mono">
-    I am currently on leave from Yale doing research with the <a href=
+    I currently study at Yale and do research with the <a href=
     "http://yecl.org" class="underline">Yale Efficient Computing Lab</a> under 
     <a href="http://www.linzhong.org" class="underline">Professor Lin Zhong, Ph.D.</a>, to develop integration techniques for cell phones 
     and flying drones in order to realize mobile hands-free computing experiences.
