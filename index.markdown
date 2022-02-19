@@ -8,7 +8,6 @@ home: true
 ---
 
 <!--content-->
-<meta name="google-site-verification" content="1BObNGeze1PhuETxV3AtyW_xrSm_-bJDkx8ZYoRQmQE" />
 <p class="w-8/12 font-mono">
   Hi! I'm Noah Weiner. I'm a third-year undergraduate student at Yale University pursuing a Bachelor of Science in Electrical Engineering and Computer Science. I'm interested in computer vision, clean energy solutions, communications technology, embedded systems, and clean transportation. You can view my resume 
   <a href="https://drive.google.com/file/d/1S1kVd31-uaxMUWCOo_YeMfJLXhsWCFnv/view?usp=sharing">here</a>.
