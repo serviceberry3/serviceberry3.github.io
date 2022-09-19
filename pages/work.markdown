@@ -9,27 +9,13 @@ home: false
 <p class="w-8/12 font-mono">
     I currently study at Yale and do research with the <a href=
     "http://yecl.org" class="underline">Yale Efficient Computing Lab</a> under 
-    <a href="http://www.linzhong.org" class="underline">Professor Lin Zhong, Ph.D.</a>, to develop integration techniques for cell phones 
-    and flying drones in order to realize mobile hands-free computing experiences.
-  </p>
-  <p class="w-8/12 font-mono pt-4">
-    My tasks have included: 
+    <a href="http://www.linzhong.org" class="underline">Professor Lin Zhong, Ph.D.</a>, to develop integration techniques for cell phones and flying drones in order to realize mobile hands-free computing experiences.
+</p>
+<p class="w-8/12 font-mono pt-4">
+    At YECL, I've researched and developed on-screen text stabilization techniques, harnessed OpenCV and pre-trained neural networks to create a computer vision system that follows a human user, written FreeRTOS-based quadcopter firmware, and set up a pipeline for controlling the drone via the onboard smartphone and its camera.
     <br><br>
-    <ul class="font-mono">
-      <li>Writing a framework for stabilizing text on the phone display
-        <ul class="ml-10 ul-lvl2">
-          <li>Modifying the native Android graphics pipeline and display (DRM) driver to improve rendering speed</li>
-        </ul>
-      </li>
-      <li>Developing a safe control interface between PC, Android, and an STM32 board using Wifi Direct and USB
-        <ul class="ml-10 ul-lvl2">
-          <li>Modifying the FreeRTOS-based Crazyflie nanocopter firmware to send and receive control packets via USB</li>
-          <li>Modifying the existing Crazyflie controller app to stream high-level commands to the onboard phone via WiFi</li>
-        </ul>
-      </li>
-      <li>Using OpenCV and pre-trained neural networks to create a computer vision system for human recognition, mapping, localization, and following using a single camera</li>
-      <li>Troubleshooting and optimizing the drone's power consumption and size</li>
-    </ul>
+    In summer 2022, I interned at The Aerospace Corporation as a Small Satellite Embedded Software Developer. I programmed a microcontroller for an early-stage CubeSat project as part of Aerospace's AeroCube small satellite fleet. I ported microROS to
+    their radiation-tolerant board and interfaced the board with peripheral computers.
 </p>
  <script src="{{ '/assets/js/work.js' | prepend: site.baseurl }}"></script>
 
